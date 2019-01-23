@@ -20,6 +20,132 @@ body {
     box-shadow: 0px 0px 10px #3865f8;
 }
 
+.order{
+    font-weight: 500;
+    color: #353535;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.color{
+    color: #74ec89;
+    text-decoration-line: underline;
+}
+
+.two{
+    text-align: end;
+    padding-right: 30px;
+    margin-top: -45px;
+}
+
+.sent{
+    text-decoration-line: none;
+}
+
+.ring{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #74ec89;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+
+.fas{
+    margin: 7px;
+    color: white;
+}
+
+.dashed{
+    width: 1px;
+    height: 50px;
+    border-left: 2px dashed #353535;
+    position: relative;
+    left: 234px;
+    top: 10px;
+}
+
+.top{
+    margin-top: 20px;
+}
+
+.gray{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #353535;
+    margin-left: 220px;
+    margin-top: 20px;
+}
+
+.a{
+    font-size: 20px;
+}
+
+.b{
+    font-size: 15px;
+    color: #353535;
+    margin-top: -10px;
+}
+
+.c{
+    font-size: 15px;
+}
+
+
+.text{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    margin-left: 260px;
+    margin-top: -250px;
+}
+
+.textt{
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: -7px;
+}
+
+.fa-dolly{
+    color: #74ec89;
+    font-size: 80px;
+    position: relative;
+    margin-left: 300px;
+    top: -155px;
+}
+
+.texttt{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    margin-left: 260px;
+    margin-top: -170px;
+}
+
+.fa-map-marker-alt{
+    color: #74ec89;
+    font-size: 50px;
+    margin-top: -30px;
+    margin-left: -15px;
+}
+
+.button{
+    width: 200px;
+    height: 40px;
+    border: 2px solid #74ec89;
+    border-radius: 2px;
+    margin-left: 150px;
+}
+
+.track{
+    color: #74ec89;
+    font-weight: 500;
+    margin-top: -17px;
+    text-align: center;
+}
 @media only screen and (max-width: 600px) {
 
 }
